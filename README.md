@@ -32,8 +32,6 @@ Requirements
 
 bonus
   - style it nicely. show off your css skills.
-
-huge bonus
   - test it with cypress
 
 
