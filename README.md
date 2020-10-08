@@ -44,5 +44,4 @@ Requirements/hints/tips
       but style some component with pure css so we can look at it
       show off your css positioning skills ;)
 
-When done, send github repo link to jobs@dialogedu.com with subject react-assignment-<your name>
-# dialog-react-assignment
+When done, send github repo link to jobs@dialogedu.com with subject react-assignment-'your name'
